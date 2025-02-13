@@ -1,6 +1,6 @@
 #  🤖 AI Free Journey: Your Gateway to Top AI Models, Completely Free!
 
-**🔥  Free access to GPT-4, Gemini, Claude, and more! No registration required, unlimited possibilities!**
+**🔥  Free access to DeepSpeek-R1、GPT-4, Gemini, Claude, and more! No registration required, unlimited possibilities!**
 
 **✨ AI Free Journey** is dedicated to building the most open and accessible AI platform, allowing you to easily experience the limitless charm of AI!
 
@@ -21,6 +21,7 @@ We have integrated the world's most advanced AI models, including but not limite
 
 **🔥  Large Language Models:**
 
+* **DeepSpeek:** DeepSpeek-R1、DeepSpeek-V3...
 * **OpenAI:** GPT-3.5, GPT-4, GPT-4 Vision...
 * **Google:** Gemini Pro, Gemini Vision...
 * **Anthropic:** Claude, Claude 2.1...
