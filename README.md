@@ -1,6 +1,6 @@
 #  🤖 AI 自由行：畅享全球顶级 AI 模型，完全免费！
 
-**🔥 免费使用 GPT-4、Gemini、Claude 等顶级 AI 模型，无需注册，无限畅享！** 
+**🔥 免费使用 DeepSeek-R1、GPT-4、Gemini、Claude 等顶级 AI 模型，无需注册，无限畅享！** 
 
 **✨  AI 自由行**  致力于打造最开放、最易用的 AI 平台，让你轻松体验 AI 的无限魅力！
 
@@ -21,6 +21,7 @@
 
 **🔥  大语言模型:**
 
+* **DeepSpeek:** DeepSpeek-R1、DeepSpeek-V3...
 * **OpenAI:** GPT-3.5, GPT-4, GPT-4 Vision...
 * **Google:** Gemini Pro, Gemini Vision...
 * **Anthropic:** Claude, Claude 2.1...
